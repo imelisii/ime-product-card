@@ -5,7 +5,7 @@
 ## Ejemplo
 
 ```
-import { } from "asd"
+import { } from "ime-product-card"
 ```
 
 
