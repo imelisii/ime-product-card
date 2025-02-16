@@ -5,7 +5,7 @@
 ## Ejemplo
 
 ```
-import { } from "ime-product-card"
+import { ProductCard, ProductImage, ProductTitle, ProductButtons } from "ime-product-card"
 ```
 
 
